@@ -11,8 +11,9 @@ Real-time Auction System · OBS Overlay · Streamer Calendar Widget · Electron 
 
 🏆 Featured Experience
 
-   MIR CUP Season 1
-   Streamer Calendar Widget
+   MIR CUP Season 1<br>
+   Streamer Calendar Widget<br>
+   
 
 <br>
 
