@@ -1,14 +1,16 @@
 <div align="center">
 
-# 🎮 KSN
-
-### PUBG Tournament System Developer
-
-실시간 경매 시스템 · OBS 오버레이 · Electron 앱 개발
+<img src="https://raw.githubusercontent.com/kimseonnam/kimseonnam/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A1%9C%EA%B3%A0.png" width="100%">
 
 <br>
 
-🌐 비공개
+# 👋 KSN
+
+### Tournament Systems & Streamer Tools
+
+Real-time Auction System · OBS Overlay · Streamer Calendar Widget · Electron Desktop App
+
+🌐 https://kimseonnam.online
 
 <br>
 
@@ -18,75 +20,121 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🎯 PUBG Auction System
+## 🎯 Tournament Management System
+
+실시간 대회 운영을 위한 웹 기반 관리 플랫폼
+
+### 주요 기능
 
 - 실시간 경매 시스템
 - 관리자 페이지
 - 참가자 페이지
-- 팀 포인트 관리
-- 실시간 입찰
-- 낙찰 / 유찰 처리
-- OBS 연동
+- 포인트 관리
+- 랜덤 추첨
+- 결과창 관리
+- 실시간 데이터 동기화
 
-### 🎥 OBS Overlay
+---
+
+## 🎥 OBS Overlay System
+
+방송 송출을 위한 전용 오버레이
+
+### 지원 기능
 
 - 4 Team Overlay
 - 8 Team Overlay
 - 16 Team Overlay
-- 16 Team Pro Overlay
+- Pro Overlay
+- 실시간 정보 표시
 - 결과창 자동 전환
 
-### 🖥 Electron Desktop App
+---
 
-- 독립 실행 프로그램
-- Auto Update
-- Splash Screen
-- OBS 전용 창
+## 📅 Streamer Calendar Widget
 
-### 📸 PUBG OCR Tool
+스트리머 및 방송 일정을 위한 데스크톱 위젯
 
-- 결과 화면 캡처
-- OCR 자동 인식
-- 킬 / 딜량 자동 추출
+### 기능
+
+- 일정 등록
+- 실시간 표시
+- 위젯 모드
+- 자동 업데이트
+- Windows 배포
 
 ---
 
-## 🛠 Tech Stack
+## 🖥 Electron Applications
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+데스크톱 환경을 위한 전용 프로그램
 
----
+### 개발 프로젝트
 
-## 📦 Download
-
-### Streamer Calendar Widget
-
-비공개
+- Tournament Client
+- Streamer Calendar Widget
+- PUBG OCR Tool
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimseonnam&show_icons=true&theme=tokyonight)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseonnam&layout=compact&theme=tokyonight)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
+# 📊 GitHub Statistics
+
 <div align="center">
 
-### KSN
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimseonnam&show_icons=true&theme=tokyonight&hide_border=true)
 
-PUBG Tournament & OBS Systems Developer
+![GitHub Streak](https://streak-stats.demolab.com?user=kimseonnam&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseonnam&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+### Tournament Systems
+
+- 실시간 경매 시스템
+- 대회 운영 플랫폼
+- OBS 오버레이
+
+### Streamer Tools
+
+- Streamer Calendar Widget
+- Electron Applications
+- 방송 지원 도구
+
+---
+
+<div align="center">
+
+## KSN
+
+### Building Better Systems For Creators
+
+Tournament Systems · Streamer Tools · Automation
 
 </div>
