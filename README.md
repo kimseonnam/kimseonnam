@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kimseonnam/kimseonnam/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A1%9C%EA%B3%A0.png" width="100%">
+<img src="https://raw.githubusercontent.com/kimseonnam/kimseonnam/main/ksn-banner.png" width="100%">
 
 <br>
 
