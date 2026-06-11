@@ -77,7 +77,7 @@ Real-time Auction System · OBS Overlay · Streamer Calendar Widget · Electron 
 
 - Tournament Client
 - Streamer Calendar Widget
-- PUBG OCR Tool
+- Game Result OCR Tool
 
 ---
 
@@ -86,15 +86,10 @@ Real-time Auction System · OBS Overlay · Streamer Calendar Widget · Electron 
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -121,7 +116,7 @@ Real-time Auction System · OBS Overlay · Streamer Calendar Widget · Electron 
 
 ## KSN
 
-### Building Better Systems For Creators
+### Building Tournament Systems & Streamer Tools
 
 Tournament Systems · Streamer Tools · Automation
 
