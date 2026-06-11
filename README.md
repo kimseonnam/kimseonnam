@@ -9,7 +9,7 @@
 
 Real-time Auction System · OBS Overlay · Streamer Calendar Widget · Electron Desktop App
 
-🏆 Participated Projects
+🏆 Featured Experience
 
 • MIR CUP Season 1
 
