@@ -4,7 +4,6 @@
 
 <br>
 
-# 👋 KSN
 
 ### Tournament Systems & Streamer Tools
 
