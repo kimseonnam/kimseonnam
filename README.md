@@ -87,6 +87,6 @@
 
 ### KSN
 
-PUBG Tournament System Developer
+PUBG Tournament & OBS Systems Developer
 
 </div>
