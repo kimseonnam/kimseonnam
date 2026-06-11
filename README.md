@@ -10,6 +10,10 @@
 
 Real-time Auction System · OBS Overlay · Streamer Calendar Widget · Electron Desktop App
 
+🏆 Participated Projects
+
+• MIR CUP Season 1
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=kimseonnam&style=for-the-badge)
