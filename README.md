@@ -10,8 +10,6 @@
 
 Real-time Auction System · OBS Overlay · Streamer Calendar Widget · Electron Desktop App
 
-🌐 https://kimseonnam.online
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=kimseonnam&style=for-the-badge)
